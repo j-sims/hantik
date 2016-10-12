@@ -1,0 +1,4 @@
+#This config file is used by shell and python
+installdir="/app"
+logdir="/app"
+tmpdir="/app"
